@@ -80,9 +80,9 @@
 <h2 align="center">Reach Out</h2>
 <div align="center">
   <a href="mailto:anchichenusa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anchi-chen/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/chenannchi"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://anchi-chen-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=for-the-badge&logo=Coderwall&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anchi-chen/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/chenannchi" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://anchi-chen-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=for-the-badge&logo=Coderwall&logoColor=white" /></a>
 </div>
 
 
