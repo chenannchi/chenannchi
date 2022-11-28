@@ -9,7 +9,7 @@
 <a href="mailto:anchichenusa@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/anchi-chen/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/chenannchi">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-<a href="https://anchi-chen-portfolio.netlify.app/">	![Portfolio](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</a>
+<a href="https://anchi-chen-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" /></a>
 
 <!--
 **chenannchi/chenannchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
