@@ -23,8 +23,7 @@
 <hr>
 
 <p>
-  💬 <strong>Want to connect?</strong> Feel free to reach out to me on 
-  <a href="https://www.linkedin.com/in/anchi-chen/" target="_blank">LinkedIn</a>!
+  💬 <strong>Want to connect?</strong> Feel free to reach out to me on <a href="https://www.linkedin.com/in/anchi-chen/" target="_blank" rel="noopener noreferrer">LinkedIn</a>!
 </p>
 
 <br>
