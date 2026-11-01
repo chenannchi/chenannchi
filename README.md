@@ -23,14 +23,14 @@
 <hr>
 
 <p>
-  💬 <strong>Want to connect?</strong> Feel free to reach out to me on <a href="https://www.linkedin.com/in/anchi-chen/" target="_blank" rel="noopener noreferrer">LinkedIn</a>!
+  💬 <strong>Want to connect?</strong> Feel free to reach out to me on <a href="https://www.linkedin.com/in/anchi-chen/">LinkedIn</a>!
 </p>
 
 <br>
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=chenannchi&show_icons=true&theme=radical" style="height:170px"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenannchi&layout=compact&theme=radical" style="width:40%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenannchi&layout=compact&theme=radical" style="width:40%"> -->
 </div>
 
 <br>
