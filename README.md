@@ -1,5 +1,31 @@
-<h2 align="center">Little About Me</h2>
-<p align="center">As a software engineer with a background in healthcare administration and computer science, I bring a detail-oriented and self-motivated mindset to what I build. I aim to use creative problem-solving, and cross-functionally collaborating skills as well as multiple software development tools such as HTML, CSS, JS, and MongoDB to create valuable applications. I am dedicated to designing and building websites to improve the way users access information.</p>
+<h2>👋 Hey, I'm a Software Engineer!</h2>
+
+<p>
+  I enjoy <strong>solving problems, exploring how systems work, and turning ideas into practical solutions</strong>. I'm always curious about what's happening behind the scenes and how things can be built better.
+</p>
+
+<p>
+  My experience spans <strong>web development, API integration, and system design</strong>, with a focus on writing maintainable code and building reliable applications. I enjoy learning new technologies, collaborating with different teams, and finding better ways to tackle engineering challenges.
+</p>
+
+<p>
+  I hold a Master's degree in Computer Science, where I explored <strong>LLM Agents and API Task Automation</strong>. I'm particularly interested in combining software engineering and AI to build smarter and more efficient systems.
+</p>
+
+<p>
+  Coming from an interdisciplinary background, I've learned to adapt quickly, embrace new challenges, and keep learning along the way.
+</p>
+
+<p>
+  Always curious, always building, always improving. 🚀
+</p>
+
+<hr>
+
+<p>
+  💬 <strong>Want to connect?</strong> Feel free to reach out to me on 
+  <a href="https://www.linkedin.com/in/anchi-chen/" target="_blank">LinkedIn</a>!
+</p>
 
 <br>
 
